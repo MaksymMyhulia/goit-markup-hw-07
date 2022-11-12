@@ -1,0 +1,26 @@
+@import "./base/common";
+@import "./base/reset";
+
+@import "./utils/vars";
+@import "./utils/mixins";
+
+@import "./components/container";
+@import "./components/logo";
+@import "./components/modal";
+@import "./components/btn";
+@import "./components/title";
+@import "./components/networks";
+
+
+
+@import "./layauts/header";
+@import "./layauts/hero";
+@import "./layauts/benefits";
+@import "./layauts/trade";
+@import "./layauts/team";
+@import "./layauts/clients";
+@import "./layauts/footer";
+@import "./layauts/subscription";
+@import "./layauts/buttons-list.scss";
+@import "./layauts/portfolio";
+

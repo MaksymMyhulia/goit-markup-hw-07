@@ -1,0 +1,13 @@
+
+.logo {
+    
+    
+    font-family: "raleway";
+    @include font (26, 1.19, 700, 0.03em);
+    color: var(--original-black-color);
+}
+.web {
+    font-family: "raleway";
+    @include font (26, 1.19, 700, 0.03em);
+    color: var(--accent-color);
+}

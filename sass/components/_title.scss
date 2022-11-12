@@ -1,0 +1,8 @@
+.title {
+    margin-top: 0;
+    margin-bottom: 50px;
+    
+    @include font (36, 1.17, 700, 0.03em);
+    text-align: center;
+    color: var(--primary-text-color);
+}
